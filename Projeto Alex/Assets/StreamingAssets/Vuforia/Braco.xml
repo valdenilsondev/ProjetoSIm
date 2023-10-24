@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bracoRoboticoNovo" size="50.000000 36.925190" />
+  </Tracking>
+</QCARConfig>
